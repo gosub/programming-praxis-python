@@ -12,3 +12,8 @@ Author
 ------
 
 * Giampaolo Guiducci <giampaolo.guiducci@gmail.com>
+
+License
+-------
+
+Released under the MIT License. See the LICENSE file for more information.
