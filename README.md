@@ -3,6 +3,8 @@ Programming Praxis in Python
 
 My solutions to the [Programming Praxis Exercises](http://programmingpraxis.com/)
 
+Tested with Python 2.7
+
 Solved exercises
 ----------------
 
