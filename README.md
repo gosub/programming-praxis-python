@@ -8,6 +8,7 @@ Solved exercises
 
 * [RPN Calculator](http://programmingpraxis.com/2009/02/19/rpn-calculator/)
 * [Sieve of Eratosthenes](http://programmingpraxis.com/2009/02/19/sieve-of-eratosthenes/)
+* [Bingo](http://programmingpraxis.com/2009/02/19/bingo/)
 
 Author
 ------
