@@ -12,6 +12,7 @@ Solved exercises
 * [Sieve of Eratosthenes](http://programmingpraxis.com/2009/02/19/sieve-of-eratosthenes/)
 * [Bingo](http://programmingpraxis.com/2009/02/19/bingo/)
 * [Sudoku](http://programmingpraxis.com/2009/02/19/sudoku/)
+* [Flavius Josephus](http://programmingpraxis.com/2009/02/19/flavius-josephus/)
 
 Author
 ------
