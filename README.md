@@ -14,6 +14,7 @@ Solved exercises
 * [Sudoku](http://programmingpraxis.com/2009/02/19/sudoku/)
 * [Flavius Josephus](http://programmingpraxis.com/2009/02/19/flavius-josephus/)
 * [ROT13](http://programmingpraxis.com/2009/02/20/rot13/)
+* [Multiple Dwellings](http://programmingpraxis.com/2009/02/20/multiple-dwellings/)
 
 Author
 ------
