@@ -16,6 +16,7 @@ Solved exercises
 * [ROT13](http://programmingpraxis.com/2009/02/20/rot13/)
 * [Multiple Dwellings](http://programmingpraxis.com/2009/02/20/multiple-dwellings/)
 * [The Digits of Pi](http://programmingpraxis.com/2009/02/20/the-digits-of-pi/)
+* [A Self-Reproducing Program](http://programmingpraxis.com/2009/02/20/a-self-reproducing-program/)
 
 Author
 ------
