@@ -17,6 +17,7 @@ Solved exercises
 * [Multiple Dwellings](http://programmingpraxis.com/2009/02/20/multiple-dwellings/)
 * [The Digits of Pi](http://programmingpraxis.com/2009/02/20/the-digits-of-pi/)
 * [A Self-Reproducing Program](http://programmingpraxis.com/2009/02/20/a-self-reproducing-program/)
+* [Mardi Gras](http://programmingpraxis.com/2009/02/24/mardi-gras/)
 
 Author
 ------
