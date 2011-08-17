@@ -19,6 +19,7 @@ Solved exercises
 * [A Self-Reproducing Program](http://programmingpraxis.com/2009/02/20/a-self-reproducing-program/)
 * [Mardi Gras](http://programmingpraxis.com/2009/02/24/mardi-gras/)
 * [Mark V. Shaney](http://programmingpraxis.com/2009/02/27/mark-v-shaney/)
+* [Creation](http://programmingpraxis.com/2009/03/03/creation/)
 
 Author
 ------
