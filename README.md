@@ -21,6 +21,7 @@ Solved exercises
 * [Mark V. Shaney](http://programmingpraxis.com/2009/02/27/mark-v-shaney/)
 * [Creation](http://programmingpraxis.com/2009/03/03/creation/)
 * [Roman Numerals](http://programmingpraxis.com/2009/03/06/roman-numerals/)
+* [Word Frequencies](http://programmingpraxis.com/2009/03/10/word-frequencies/)
 
 Author
 ------
