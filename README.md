@@ -23,6 +23,7 @@ Solved exercises
 * [Roman Numerals](http://programmingpraxis.com/2009/03/06/roman-numerals/)
 * [Word Frequencies](http://programmingpraxis.com/2009/03/10/word-frequencies/)
 * [Friday, the Thirteenth](http://programmingpraxis.com/2009/03/13/friday-the-thirteenth/)
+* [Comma-Separated Values](http://programmingpraxis.com/2009/03/17/comma-separated-values/)
 
 Author
 ------
