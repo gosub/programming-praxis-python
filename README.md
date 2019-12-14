@@ -28,7 +28,7 @@ Solved exercises
 Author
 ------
 
-* Giampaolo Guiducci <stirner@gmail.com>
+* Giampaolo Guiducci <giampaolo.guiducci@gmail.com>
 
 License
 -------
